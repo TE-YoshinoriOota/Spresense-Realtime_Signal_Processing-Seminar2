@@ -11,7 +11,7 @@ This seminar will cover the following techniques.
 [Spresenseではじめるリアルタイム信号処理プログラミング（応用編）](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Documents/SPRESENSE%E2%84%A2%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E4%BF%A1%E5%8F%B7%E5%87%A6%E7%90%86%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%88%E5%BF%9C%E7%94%A8%E7%B7%A8%EF%BC%89.pdf)
 
 ## Contents of Sketches
-|Sketch|contents|
+|Sketches directory|contents|
 ----|----
 |[Sketches/1_BF_Sketches/Spresense_BeamSpectrum](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/1_BF_Sketches/Spresense_BeamSpectrum/Spresense_BeamSpectrum.ino)|Sound source localization program|
 |[Sketches/1_BF_Sketches/Spresense_Beamforming](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/1_BF_Sketches/Spresense_Beamforming/Spresense_Beamforming.ino)|Sound beamforming program|
@@ -26,7 +26,9 @@ This seminar will cover the following techniques.
 |[Sketches/3_ANC_Sketches
 /Spresense_anc](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_anc/Spresense_anc.ino)|Active noise canceller program|
 
-|Python|contents|
+<br/>
+
+|Pythons directory|contents|
 ----|----
 |[Pythons
 /1_BF_Python/gglobe.py](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Pythons/1_BF_Pythons/gglobe.py) | Create a mic-array chacateristic graph |
@@ -37,7 +39,9 @@ This seminar will cover the following techniques.
 |[Pythons
 /3_ANC_Pythons/gen_ir.py](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Pythons/3_ANC_Pythons/gen_ir.py) | Impulse Response generator |
 
-|Processing|contents|
+<br/>
+
+|Processing directory|contents|
 ----|----
 |[Processing
 /Processing_BeamSpectrum/Processing_BeamSpectrum.pde](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde)  | Generate the realtime graph on sound source localization |
