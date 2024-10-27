@@ -1,6 +1,6 @@
 # Spresense-Realtime_Signal_Processing-Seminar2
 
-Spresense Realtime Signal Processing Advanced Seminar materials
+Spresense Realtime Signal Processing Advanced Seminar materials.
 This seminar will cover the following techniques.
 
 (1) Sound source localization and Beamforming using mic-arrays<br>
