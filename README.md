@@ -3,9 +3,9 @@
 Spresense Realtime Signal Processing Advanced Seminar materials
 This seminar will cover the following techniques.
 
-(1) Sound source localization and Beamforming using mic-arrays
-(2) Adaptive filter for echo cancellation
-(3) Active noise cancellation and measurement for impulse response.
+(1) Sound source localization and Beamforming using mic-arrays<br>
+(2) Adaptive filter for echo cancellation<br>
+(3) Active noise cancellation and measurement for impulse response<br>
 
 ## Seminar material
 [Spresenseではじめるリアルタイム信号処理プログラミング（応用編）](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Documents/SPRESENSE%E2%84%A2%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E4%BF%A1%E5%8F%B7%E5%87%A6%E7%90%86%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%EF%BC%88%E5%BF%9C%E7%94%A8%E7%B7%A8%EF%BC%89.pdf)
