@@ -34,8 +34,7 @@ This seminar will cover the following techniques.
 
 |Processing directory|contents|
 ----|----
-|[Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde)  
- | Generate the real-time graph on sound source localization |
+|[Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde)  | Generate the real-time graph on sound source localization |
 
 ## License
 - Source codes are under LGPL V2.1
