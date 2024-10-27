@@ -18,13 +18,13 @@ This seminar will cover the following techniques.
 |[Sketches/2_EC_Sketches
 /Spresense_FeedbackCanceller](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/2_EC_Sketches/Spresense_FeedbackCanceller/Spresense_FeedbackCanceller.ino) | Sound Feedback canceller program|
 |[Sketches/3_ANC_Sketches
-/Spresense_tsp_player_wav](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_tsp_player_wav/Spresense_tsp_player_wav.ino)|TSP signal player|
+/Spresense_tsp_player_wav](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_tsp_player_wav/Spresense_tsp_player_wav.ino) | TSP signal player |
 |[Sketches/3_ANC_Sketches
-/Spresense_tsp_recorder_wav](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_tsp_recorder_wav/Spresense_tsp_recorder_wav.ino)|TSP signal recorder|
+/Spresense_tsp_recorder_wav](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_tsp_recorder_wav/Spresense_tsp_recorder_wav.ino) | TSP signal recorder|
 |[Sketches/3_ANC_Sketches
-/Spresense_IR-FIR2TSP](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_IR-FIR2TSP/Spresense_IR-FIR2TSP.ino)|FIR filter based on impulse response made by TSP signal|
+/Spresense_IR-FIR2TSP](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_IR-FIR2TSP/Spresense_IR-FIR2TSP.ino) | FIR filter based on impulse response made by TSP signal|
 |[Sketches/3_ANC_Sketches
-/Spresense_anc](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_anc/Spresense_anc.ino)|Active noise canceller program|
+/Spresense_anc](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Sketches/3_ANC_Sketches/Spresense_anc/Spresense_anc.ino) | Active noise canceller program |
 
 <br/>
 
@@ -44,7 +44,8 @@ This seminar will cover the following techniques.
 |Processing directory|contents|
 ----|----
 |[Processing
-/Processing_BeamSpectrum/Processing_BeamSpectrum.pde](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde)  | Generate the realtime graph on sound source localization |
+/Processing_BeamSpectrum/Processing_BeamSpectrum.pde](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar2/blob/main/Processing/Processing_BeamSpectrum/Processing_BeamSpectrum.pde)  
+ | Generate the realtime graph on sound source localization |
 
 ## License
 - Source codes are under LGPL V2.1
